@@ -1,0 +1,3 @@
+import JAMUAYHUAKA
+
+JAMUAYHUAKA.main()
